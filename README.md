@@ -5,29 +5,27 @@
   </picture>
 </p>
 
-<p align="center"><b>Alpha 001</b> · A game by One Candle Games</p>
+<p align="center"><b>Alpha 002</b> · A game by One Candle Games</p>
 
 <p align="center"><a href="../../releases/latest"><b>Download the latest version</b></a></p>
 
 At night you carry Mira's lantern through the fog, light beacons and rescue lost villagers. By day you rebuild the village by the lighthouse. **Lanternwatch** is an isometric horde roguelite with a cozy village hub.
 
-**Alpha 001** covers five nights on Ashhill. In-game text is German for now.
+**Alpha 002** covers five nights on Ashhill, then a bonus night with Tavi, the fisher's apprentice. In-game text is German for now.
 
-![Main menu](images/01_hauptmenue.jpg)
+![A new light awakens: Tavi](images/a002_01_tavi_new_light.jpg)
 
 | | |
 |---|---|
-| ![Ilse's house by the cliff](images/02_ilses_haus.jpg) | ![The village in the evening](images/03_dorf_abend.jpg) |
-| ![Golden fusion card](images/04_verschmelzungskarte.jpg) | ![Golem, werewolf and Ash Giant](images/05_golem_werwolf_riese.jpg) |
-| ![Village festival](images/06_dorffest.jpg) | |
+| ![Tavi's bonus night](images/a002_02_tavi_bonus_night.jpg) | ![Ember call through the fog](images/a002_03_ember_call.jpg) |
+| ![Card rarities and editions](images/a002_04_card_editions.jpg) | ![The tavern counter](images/a002_05_tavern_counter.jpg) |
+| ![The Wachbuch](images/a002_06_wachbuch.jpg) | ![Main menu](images/01_hauptmenue.jpg) |
 
-## New in Alpha 001
-- **Start and tutorial:** a short tutorial you can skip. The story begins in Ilse's house at the foot of the lighthouse cliff.
-- **Day and night:** 12-minute nights and a 12-minute village day with a moving sun; evenings at the campfire on the quay.
-- **Village and characters:** everyone has something to say, there's a village festival and Hennick's spark glass. E to talk, Q to trade.
-- **Combat and cards:** guaranteed fusions and "My Cards" (Tab). Mira now has 50 health.
-- **Enemies:** ember golems, werewolf mini-bosses, the Ash Giant and the Ash Warden's crow swarms.
-- **Look and name:** new name Lanternwatch, new logo and the studio One Candle Games.
+## New in Alpha 002
+- **Tavi, a second hero:** after the five nights a spark wakes him at the harbour, and you get one bonus night with his harpoon, net and storm lightning.
+- **Ember path:** the way to the next beacon shows in the fog itself. Hold Shift / LT for the Ember call, a lane of light through the fog.
+- **New card system:** at most 6 cards per night, 3 levels each, fusions at level 3. Rarities from weak to heroic, card editions, hold and reroll.
+- **Tavern counter and Wachbuch:** every purchase at the tavern counter; your cards, a chronicle of your nights and a bestiary in the Wachbuch.
 
 ## How to start
 1. Download the ZIP from the [release page](../../releases/latest) and unzip it completely.
@@ -35,11 +33,11 @@ At night you carry Mira's lantern through the fog, light beacons and rescue lost
 3. The exe is not signed, so Windows may show a warning on first launch. Only download the game from this project's release page.
 
 ## Controls
-WASD move · Space dodge · Q flare · E fire flask · F return home at a beacon · Tab My Cards · in the village E talk, Q trade, M map · F8 if you get stuck · Esc pause.
+WASD move · Space dodge · Q flare · E fire flask · hold Shift Ember call · F return home at a beacon · Tab My Cards · in the village E talk, Q trade, M map · F8 if you get stuck · Esc pause.
 Mouse and keyboard recommended. Controllers work but are not fully tested.
 
 ## Known issues
-See the release notes: placeholder sounds, controllers not fully tested, the exe is not signed.
+See the release notes: placeholder sounds, card and lightning balance not final, controllers not fully tested, the exe is not signed.
 
 ---
 
