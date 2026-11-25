@@ -5,44 +5,42 @@
   </picture>
 </p>
 
-<p align="center"><b>Alpha 001</b> · Ein Spiel von One Candle Games</p>
+<p align="center"><b>Alpha 001</b> · A game by One Candle Games</p>
 
-<p align="center"><a href="../../releases/latest"><b>Neueste Version herunterladen</b></a></p>
+<p align="center"><a href="../../releases/latest"><b>Download the latest version</b></a></p>
 
-Nachts trägst du als Mira eine Laterne durch den Nebel, entzündest Leuchtfeuer und rettest verlorene Dorfbewohner. Tagsüber baust du das Dorf am Leuchtturm wieder auf. **Lanternwatch** ist ein isometrisches Horde-Roguelite mit gemütlichem Dorf.
+At night you carry Mira's lantern through the fog, light beacons and rescue lost villagers. By day you rebuild the village by the lighthouse. **Lanternwatch** is an isometric horde roguelite with a cozy village hub.
 
-**Alpha 001** umfasst fünf Nächte auf dem Aschebügel. Die Texte sind auf Deutsch.
+**Alpha 001** covers five nights on Ashhill. In-game text is German for now.
 
-![Hauptmenü](images/01_hauptmenue.jpg)
+![Main menu](images/01_hauptmenue.jpg)
 
 | | |
 |---|---|
-| ![Ilses Haus an der Klippe](images/02_ilses_haus.jpg) | ![Das Dorf am Abend](images/03_dorf_abend.jpg) |
-| ![Goldene Verschmelzungskarte](images/04_verschmelzungskarte.jpg) | ![Golem, Werwolf und Aschenriese](images/05_golem_werwolf_riese.jpg) |
-| ![Dorffest](images/06_dorffest.jpg) | |
+| ![Ilse's house by the cliff](images/02_ilses_haus.jpg) | ![The village in the evening](images/03_dorf_abend.jpg) |
+| ![Golden fusion card](images/04_verschmelzungskarte.jpg) | ![Golem, werewolf and Ash Giant](images/05_golem_werwolf_riese.jpg) |
+| ![Village festival](images/06_dorffest.jpg) | |
 
-## Neu in Alpha 001
-- **Start und Tutorial:** kurzes Tutorial, das sich überspringen lässt. Der Einstieg beginnt in Ilses Haus an der Leuchtturm-Klippe.
-- **Tag und Nacht:** 12 Minuten Nacht, 12 Minuten Dorf-Tag mit wandernder Sonne, abends Lagerfeuer am Kai.
-- **Dorf und Figuren:** Alle erzählen etwas, es gibt ein Dorffest und Hennicks Funkenglas. E zum Reden, Q zum Handeln.
-- **Kampf und Karten:** sichere Verschmelzungen und „Meine Karten“ (Tab). Mira hat jetzt 50 Leben.
-- **Gegner:** Glutgolems, Werwolf-Mini-Bosse, der Aschenriese und die Krähenschwärme des Aschenvogts.
-- **Aussehen und Name:** neuer Name Lanternwatch, neues Logo und Studio One Candle Games.
+## New in Alpha 001
+- **Start and tutorial:** a short tutorial you can skip. The story begins in Ilse's house at the foot of the lighthouse cliff.
+- **Day and night:** 12-minute nights and a 12-minute village day with a moving sun; evenings at the campfire on the quay.
+- **Village and characters:** everyone has something to say, there's a village festival and Hennick's spark glass. E to talk, Q to trade.
+- **Combat and cards:** guaranteed fusions and "My Cards" (Tab). Mira now has 50 health.
+- **Enemies:** ember golems, werewolf mini-bosses, the Ash Giant and the Ash Warden's crow swarms.
+- **Look and name:** new name Lanternwatch, new logo and the studio One Candle Games.
 
-## Starten
-1. ZIP von der [Release-Seite](../../releases/latest) herunterladen und vollständig entpacken.
-2. `Lanternwatch.exe` doppelklicken.
-3. Die Datei ist nicht signiert, deshalb kann Windows beim ersten Start eine Warnung zeigen. Lade das Spiel nur von der Release-Seite dieses Projekts herunter.
+## How to start
+1. Download the ZIP from the [release page](../../releases/latest) and unzip it completely.
+2. Double-click `Lanternwatch.exe`.
+3. The exe is not signed, so Windows may show a warning on first launch. Only download the game from this project's release page.
 
-## Steuerung
-WASD laufen · Leertaste ausweichen · Q Aufflammen · E Brandflasche · F heimkehren am Leuchtfeuer · Tab Meine Karten · im Dorf E reden, Q handeln, M Dorfkarte · F8 bei Feststecken · Esc Pause.
-Maus und Tastatur empfohlen. Controller funktionieren, sind aber noch nicht vollständig getestet.
+## Controls
+WASD move · Space dodge · Q flare · E fire flask · F return home at a beacon · Tab My Cards · in the village E talk, Q trade, M map · F8 if you get stuck · Esc pause.
+Mouse and keyboard recommended. Controllers work but are not fully tested.
 
-## Bekannte Probleme
-Siehe Release-Notizen: Platzhalter-Geräusche, Controller noch nicht vollständig getestet, die exe ist nicht signiert.
+## Known issues
+See the release notes: placeholder sounds, controllers not fully tested, the exe is not signed.
 
 ---
 
-**English:** Lanternwatch is an isometric horde roguelite with a cozy village hub. Alpha 001 covers five nights on Ashhill. The game text is German only for now. Download the ZIP from the [latest release](../../releases/latest), unzip it and run `Lanternwatch.exe`. The exe is not signed, so Windows may show a warning. Stuck? Press F8.
-
-© One Candle Games. Dieses Repository enthält nur Bilder und Texte, keinen Quellcode und keine Spieldateien.
+© One Candle Games. This repository only contains images and text — no source code and no game files.
