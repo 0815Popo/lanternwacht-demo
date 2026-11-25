@@ -1,42 +1,48 @@
-# Lanternwacht – Demo (5 Nächte)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/logo_wordmark.png">
+    <img src="images/logo_wordmark_dark.png" alt="Lanternwatch" width="600">
+  </picture>
+</p>
 
-**[⬇ Demo herunterladen (Windows, ~300 MB)](https://github.com/0815Popo/lanternwacht-demo/releases/latest)**
+<p align="center"><b>Alpha 001</b> · Ein Spiel von One Candle Games</p>
 
-Mira hält mit ihrer Laterne den Nebel zurück. Fünf Nächte lang auf dem Aschebügel: Entzünde die drei Leuchtfeuer, rette verlorene Dorfbewohner, werde im Dorf stärker – und stell dich dem Aschenvogt, der in der dritten Nacht erwacht.
+<p align="center"><a href="../../releases/latest"><b>Neueste Version herunterladen</b></a></p>
 
-Die Demo dauert **fünf Nächte** (bis zu ca. 75 Minuten). Jede Nacht zählt – ob du heimkehrst, das Morgengrauen erlebst oder fällst. Fällst du, erwacht Mira im Dorf; nur die Nacht ist verloren.
+Nachts trägst du als Mira eine Laterne durch den Nebel, entzündest Leuchtfeuer und rettest verlorene Dorfbewohner. Tagsüber baust du das Dorf am Leuchtturm wieder auf. **Lanternwatch** ist ein isometrisches Horde-Roguelite mit gemütlichem Dorf.
 
-![Hinweis](screenshots/hinweis.jpg)
-![Nacht 1](screenshots/nacht1.jpg)
-![Ende](screenshots/ende.jpg)
+**Alpha 001** umfasst fünf Nächte auf dem Aschebügel. Die Texte sind auf Deutsch.
+
+![Hauptmenü](images/01_hauptmenue.jpg)
+
+| | |
+|---|---|
+| ![Ilses Haus an der Klippe](images/02_ilses_haus.jpg) | ![Das Dorf am Abend](images/03_dorf_abend.jpg) |
+| ![Goldene Verschmelzungskarte](images/04_verschmelzungskarte.jpg) | ![Golem, Werwolf und Aschenriese](images/05_golem_werwolf_riese.jpg) |
+| ![Dorffest](images/06_dorffest.jpg) | |
+
+## Neu in Alpha 001
+- **Start und Tutorial:** kurzes Tutorial, das sich überspringen lässt. Der Einstieg beginnt in Ilses Haus an der Leuchtturm-Klippe.
+- **Tag und Nacht:** 12 Minuten Nacht, 12 Minuten Dorf-Tag mit wandernder Sonne, abends Lagerfeuer am Kai.
+- **Dorf und Figuren:** Alle erzählen etwas, es gibt ein Dorffest und Hennicks Funkenglas. E zum Reden, Q zum Handeln.
+- **Kampf und Karten:** sichere Verschmelzungen und „Meine Karten“ (Tab). Mira hat jetzt 50 Leben.
+- **Gegner:** Glutgolems, Werwolf-Mini-Bosse, der Aschenriese und die Krähenschwärme des Aschenvogts.
+- **Aussehen und Name:** neuer Name Lanternwatch, neues Logo und Studio One Candle Games.
 
 ## Starten
-1. Unter [Releases](https://github.com/0815Popo/lanternwacht-demo/releases/latest) die ZIP-Datei laden und entpacken.
-2. `Lanternwacht.exe` starten.
-3. Die exe ist nicht signiert. Zeigt Windows „Der Computer wurde durch Windows geschützt“, auf **Weitere Informationen → Trotzdem ausführen** klicken. Ist **Smart App Control** eingeschaltet, startet die Demo leider nicht.
-
-**System:** Windows 10/11, 64 Bit, DirectX 11.
+1. ZIP von der [Release-Seite](../../releases/latest) herunterladen und vollständig entpacken.
+2. `Lanternwatch.exe` doppelklicken.
+3. Die Datei ist nicht signiert, deshalb kann Windows beim ersten Start eine Warnung zeigen. Lade das Spiel nur von der Release-Seite dieses Projekts herunter.
 
 ## Steuerung
-| Aktion | Tastatur | Controller |
-|---|---|---|
-| Laufen | WASD | linker Stick |
-| Ausweichen | Leertaste | A |
-| Aufflammen | Q | LB |
-| Brandflasche | E | RB |
-| Heimkehren am Leuchtfeuer | F | Y |
-| Benutzen im Dorf | E | X |
-| Pause | Esc | Start |
+WASD laufen · Leertaste ausweichen · Q Aufflammen · E Brandflasche · F heimkehren am Leuchtfeuer · Tab Meine Karten · im Dorf E reden, Q handeln, M Dorfkarte · F8 bei Feststecken · Esc Pause.
+Maus und Tastatur empfohlen. Controller funktionieren, sind aber noch nicht vollständig getestet.
 
-## Hinweise
-- Frühe Demo: Die Töne sind Platzhalter, Musik gibt es noch nicht.
-- Der Spielstand der Demo wird lokal gespeichert.
-
-Ein Spiel von **Sebastian Popovic**.
-
-3D-Assets © Synty Studios, lizenziert für dieses Spiel. Sie dürfen nicht aus dem Spiel entnommen oder weiterverwendet werden.
+## Bekannte Probleme
+Siehe Release-Notizen: Platzhalter-Geräusche, Controller noch nicht vollständig getestet, die exe ist nicht signiert.
 
 ---
 
-### English
-Lanternwacht is a 5-night demo: hold back the fog with Mira's lantern, light the three beacons, rescue villagers and defeat the Ashwarden (Aschenvogt). Download the ZIP from [Releases](https://github.com/0815Popo/lanternwacht-demo/releases/latest), unzip, run `Lanternwacht.exe` (Windows 64-bit). The exe is unsigned: on the SmartScreen warning click *More info → Run anyway*; it will not start with Smart App Control enabled. The game is in German. Early demo with placeholder sounds and no music yet. 3D assets © Synty Studios, licensed for this game only – do not extract or reuse them.
+**English:** Lanternwatch is an isometric horde roguelite with a cozy village hub. Alpha 001 covers five nights on Ashhill. The game text is German only for now. Download the ZIP from the [latest release](../../releases/latest), unzip it and run `Lanternwatch.exe`. The exe is not signed, so Windows may show a warning. Stuck? Press F8.
+
+© One Candle Games. Dieses Repository enthält nur Bilder und Texte, keinen Quellcode und keine Spieldateien.
